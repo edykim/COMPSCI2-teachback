@@ -11,7 +11,7 @@ $ g++ -Werror -Wall -std=c++17 -o main teachback.cpp util.cpp
 ## Files
 
 ```
-./teachback.cpp  -- demonstration file
+./teachback.cpp  -- demonstration file with a script
 ./util.h         -- utility functions header
 ./util.cpp       -- utility functions
 ```
