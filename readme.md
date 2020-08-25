@@ -1,6 +1,6 @@
 # Vector
 
-The repository contains the materials of a teachback project from COMPSCI-2.
+This repository contains the materials of the teachback project from COMPSCI-2.
 
 ## Build
 
